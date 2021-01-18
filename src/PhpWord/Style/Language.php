@@ -73,6 +73,9 @@ final class Language extends AbstractStyle
 
     const RU_RU = 'ru-RU';
     const RU_RU_ID = 1049;
+    
+    const ES_MX = 'es-MX';
+    const ES_MX_ID = 2058;
 
     /**
      * Language ID, used for RTF document generation
